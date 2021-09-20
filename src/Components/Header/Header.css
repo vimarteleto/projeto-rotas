@@ -1,0 +1,33 @@
+.menu {
+  height: 10%;
+  border: 1px solid rgba(10, 7, 7, 0.699);
+  background-color: rgb(219, 219, 219);
+  font-size: 16px;
+  top: 0;
+  width: 100vw;
+  height: 50px;
+}
+
+.menu-volkswagen {  
+  position: fixed;
+}
+
+.navbar ul {
+  list-style: none;
+  text-align: left;
+}
+
+.navbar li  {
+  display: inline;
+}
+
+.navbar ul li a {
+  padding-left: 1.2vw;
+  display: inline-block;
+  color: #333;
+  text-decoration: none;
+}
+
+.navbar ul li a:hover {
+  color: red;
+}

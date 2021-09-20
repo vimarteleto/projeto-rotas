@@ -1,0 +1,6 @@
+.container-sensores {
+  background-color: rgba(201, 189, 84, 0.705);
+  display: block;
+  height: 90vh;
+  overflow: hidden;
+}

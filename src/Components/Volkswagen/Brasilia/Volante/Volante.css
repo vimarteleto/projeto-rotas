@@ -1,0 +1,6 @@
+.container-volante {
+  background-color: rgba(109, 157, 202, 0.705);
+  display: block;
+  height: 90vh;
+  overflow: hidden;
+}
